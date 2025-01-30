@@ -1,10 +1,6 @@
-# pharmaceutical-procuremnt-automation-tool
+# Pharmaceutical-Procuremnt-Automation-Tool
 
-An Electron application with React and TypeScript
-
-## Recommended IDE Setup
-
-- [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+The Pharmaceutical Procurement Automation Tool automates medicine procurement by using OCR and intelligent data extraction. It helps healthcare organizations, pharmacies, and procurement teams match government medicine lists with vendor supplies efficiently, reducing manual effort and improving accuracy.
 
 ### Getting Started:
 
